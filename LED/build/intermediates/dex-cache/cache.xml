@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/lakshay/HomeAutomationSystem/LED/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/home/lakshay/HomeAutomationSystem/LED/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-21.0.3_f4bd5dc48f3d06dc8836cb91b02843823d494d34.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/lakshay/HomeAutomationSystem/LED/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/home/lakshay/HomeAutomationSystem/LED/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-21.0.3_8fe1376c738715ad89f14cc0dcd072feda8ff387.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/lakshay/HomeAutomationSystem/LED/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/jars/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/home/lakshay/HomeAutomationSystem/LED/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3_195b70ec723f0bda3f18a897a8c7b65bc3d3c531.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/lakshay/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/home/lakshay/HomeAutomationSystem/LED/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3_2cba3bd4b64c370fafc93e9a6ff2444b9cac6011.jar" />
+    </item>
+
+</items>

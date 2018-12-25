@@ -1,0 +1,126 @@
+[
+    {
+        "merged": "/home/lakshay/HomeAutomationSystem/LED/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
+        "source": "/home/lakshay/HomeAutomationSystem/LED/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable/abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/home/lakshay/HomeAutomationSystem/LED/app/build/intermediates/res/merged/debug/drawable/background.jpg",
+        "source": "/home/lakshay/HomeAutomationSystem/LED/app/src/main/res/drawable/background.jpg"
+    },
+    {
+        "merged": "/home/lakshay/HomeAutomationSystem/LED/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "/home/lakshay/HomeAutomationSystem/LED/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/home/lakshay/HomeAutomationSystem/LED/app/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml",
+        "source": "/home/lakshay/HomeAutomationSystem/LED/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable/abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "/home/lakshay/HomeAutomationSystem/LED/app/build/intermediates/res/merged/debug/drawable/about.png",
+        "source": "/home/lakshay/HomeAutomationSystem/LED/app/src/main/res/drawable/about.png"
+    },
+    {
+        "merged": "/home/lakshay/HomeAutomationSystem/LED/app/build/intermediates/res/merged/debug/drawable/cover.png",
+        "source": "/home/lakshay/HomeAutomationSystem/LED/app/src/main/res/drawable/cover.png"
+    },
+    {
+        "merged": "/home/lakshay/HomeAutomationSystem/LED/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_internal_bg.xml",
+        "source": "/home/lakshay/HomeAutomationSystem/LED/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable/abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "/home/lakshay/HomeAutomationSystem/LED/app/build/intermediates/res/merged/debug/drawable/abc_btn_check_material.xml",
+        "source": "/home/lakshay/HomeAutomationSystem/LED/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable/abc_btn_check_material.xml"
+    },
+    {
+        "merged": "/home/lakshay/HomeAutomationSystem/LED/app/build/intermediates/res/merged/debug/drawable/abc_edit_text_material.xml",
+        "source": "/home/lakshay/HomeAutomationSystem/LED/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/home/lakshay/HomeAutomationSystem/LED/app/build/intermediates/res/merged/debug/drawable/splah.png",
+        "source": "/home/lakshay/HomeAutomationSystem/LED/app/src/main/res/drawable/splah.png"
+    },
+    {
+        "merged": "/home/lakshay/HomeAutomationSystem/LED/app/build/intermediates/res/merged/debug/drawable/two.png",
+        "source": "/home/lakshay/HomeAutomationSystem/LED/app/src/main/res/drawable/two.png"
+    },
+    {
+        "merged": "/home/lakshay/HomeAutomationSystem/LED/app/build/intermediates/res/merged/debug/drawable/twitter_70x70.png",
+        "source": "/home/lakshay/HomeAutomationSystem/LED/app/src/main/res/drawable/twitter_70x70.png"
+    },
+    {
+        "merged": "/home/lakshay/HomeAutomationSystem/LED/app/build/intermediates/res/merged/debug/drawable/facebook_70x70.png",
+        "source": "/home/lakshay/HomeAutomationSystem/LED/app/src/main/res/drawable/facebook_70x70.png"
+    },
+    {
+        "merged": "/home/lakshay/HomeAutomationSystem/LED/app/build/intermediates/res/merged/debug/drawable/disconnect.png",
+        "source": "/home/lakshay/HomeAutomationSystem/LED/app/src/main/res/drawable/disconnect.png"
+    },
+    {
+        "merged": "/home/lakshay/HomeAutomationSystem/LED/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/home/lakshay/HomeAutomationSystem/LED/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "/home/lakshay/HomeAutomationSystem/LED/app/build/intermediates/res/merged/debug/drawable/logo.png",
+        "source": "/home/lakshay/HomeAutomationSystem/LED/app/src/main/res/drawable/logo.png"
+    },
+    {
+        "merged": "/home/lakshay/HomeAutomationSystem/LED/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
+        "source": "/home/lakshay/HomeAutomationSystem/LED/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable/abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/home/lakshay/HomeAutomationSystem/LED/app/build/intermediates/res/merged/debug/drawable/three.png",
+        "source": "/home/lakshay/HomeAutomationSystem/LED/app/src/main/res/drawable/three.png"
+    },
+    {
+        "merged": "/home/lakshay/HomeAutomationSystem/LED/app/build/intermediates/res/merged/debug/drawable/one.jpg",
+        "source": "/home/lakshay/HomeAutomationSystem/LED/app/src/main/res/drawable/one.jpg"
+    },
+    {
+        "merged": "/home/lakshay/HomeAutomationSystem/LED/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml",
+        "source": "/home/lakshay/HomeAutomationSystem/LED/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable/abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/home/lakshay/HomeAutomationSystem/LED/app/build/intermediates/res/merged/debug/drawable/instagram_70x70.png",
+        "source": "/home/lakshay/HomeAutomationSystem/LED/app/src/main/res/drawable/instagram_70x70.png"
+    },
+    {
+        "merged": "/home/lakshay/HomeAutomationSystem/LED/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml",
+        "source": "/home/lakshay/HomeAutomationSystem/LED/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable/abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "/home/lakshay/HomeAutomationSystem/LED/app/build/intermediates/res/merged/debug/drawable/on.png",
+        "source": "/home/lakshay/HomeAutomationSystem/LED/app/src/main/res/drawable/on.png"
+    },
+    {
+        "merged": "/home/lakshay/HomeAutomationSystem/LED/app/build/intermediates/res/merged/debug/drawable/abc_btn_radio_material.xml",
+        "source": "/home/lakshay/HomeAutomationSystem/LED/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable/abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "/home/lakshay/HomeAutomationSystem/LED/app/build/intermediates/res/merged/debug/drawable/developer.png",
+        "source": "/home/lakshay/HomeAutomationSystem/LED/app/src/main/res/drawable/developer.png"
+    },
+    {
+        "merged": "/home/lakshay/HomeAutomationSystem/LED/app/build/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml",
+        "source": "/home/lakshay/HomeAutomationSystem/LED/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable/abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "/home/lakshay/HomeAutomationSystem/LED/app/build/intermediates/res/merged/debug/drawable/red.png",
+        "source": "/home/lakshay/HomeAutomationSystem/LED/app/src/main/res/drawable/red.png"
+    },
+    {
+        "merged": "/home/lakshay/HomeAutomationSystem/LED/app/build/intermediates/res/merged/debug/drawable/abc_textfield_search_material.xml",
+        "source": "/home/lakshay/HomeAutomationSystem/LED/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable/abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "/home/lakshay/HomeAutomationSystem/LED/app/build/intermediates/res/merged/debug/drawable/led.png",
+        "source": "/home/lakshay/HomeAutomationSystem/LED/app/src/main/res/drawable/led.png"
+    },
+    {
+        "merged": "/home/lakshay/HomeAutomationSystem/LED/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",
+        "source": "/home/lakshay/HomeAutomationSystem/LED/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable/abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/home/lakshay/HomeAutomationSystem/LED/app/build/intermediates/res/merged/debug/drawable/website_75x75.png",
+        "source": "/home/lakshay/HomeAutomationSystem/LED/app/src/main/res/drawable/website_75x75.png"
+    }
+]

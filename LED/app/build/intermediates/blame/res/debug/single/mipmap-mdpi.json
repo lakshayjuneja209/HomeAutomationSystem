@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/lakshay/HomeAutomationSystem/LED/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher.png",
+        "source": "/home/lakshay/HomeAutomationSystem/LED/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/lakshay/HomeAutomationSystem/LED/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher2.png",
+        "source": "/home/lakshay/HomeAutomationSystem/LED/app/src/main/res/mipmap-mdpi/ic_launcher2.png"
+    }
+]

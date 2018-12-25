@@ -1,0 +1,146 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    tools:context="com.led_on_off.led.ledControl"
+    android:background="#1d4851">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Home Automation: Robolab "
+        android:id="@+id/heading"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:textColor="#ffffff"
+        android:textSize="20dp" />
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_centerInParent="true"
+        >
+        <LinearLayout
+            android:id="@+id/ll_1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            >
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Curtains:"
+                android:layout_alignParentTop="true"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:textColor="#ffffff"
+                android:paddingRight="@dimen/activity_horizontal_margin"
+                 />
+            <Button
+                android:id="@+id/appliance1_off"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:text="OFF"
+                android:layout_weight="1"
+                />
+            <Button
+                android:id="@+id/appliance1_on"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:text="ON"
+                android:layout_weight="1"
+
+                />
+        </LinearLayout>
+        <LinearLayout
+            android:id="@+id/ll_2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/ll_1"
+            android:layout_marginTop="@dimen/activity_vertical_margin"
+            >
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Projector:"
+                android:layout_alignParentTop="true"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:textColor="#ffffff"
+                android:paddingRight="@dimen/activity_horizontal_margin"
+                />
+            <Button
+                android:id="@+id/appliance2_off"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:text="OFF"
+                android:layout_weight="1"
+                />
+            <Button
+                android:id="@+id/appliance2_on"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:text="ON"
+                android:layout_weight="1"
+
+                />
+        </LinearLayout>
+        <LinearLayout
+            android:id="@+id/ll_3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/ll_2"
+            android:layout_marginTop="@dimen/activity_vertical_margin"
+            >
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="3D Printer:"
+                android:layout_alignParentTop="true"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:textColor="#ffffff"
+                android:paddingRight="@dimen/activity_horizontal_margin"
+                />
+            <Button
+                android:id="@+id/appliance3_off"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:text="OFF"
+                android:layout_weight="1"
+                />
+            <Button
+                android:id="@+id/appliance3_on"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:text="ON"
+                android:layout_weight="1"
+
+                />
+        </LinearLayout>
+    </LinearLayout>
+
+
+    <ImageButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/discnt"
+        android:src="@drawable/disconnect"
+        android:background="@null"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/speak"
+        android:text="SPEAK"
+        android:background="#0000ff"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true" />
+
+</RelativeLayout>
